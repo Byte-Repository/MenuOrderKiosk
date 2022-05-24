@@ -1,1 +1,2 @@
-﻿SELECT * FROM login;
+//
+SELECT * FROM login;
